@@ -1,0 +1,6 @@
+{
+    "download_url": "https://www.propertypriceregister.ie/website/npsra/ppr/npsra-ppr.nsf/Downloads/PPR-{date}.csv/$FILE/PPR-{date}.csv",
+    "download_dir": "downloads",
+    "mongodb_uri": "mongodb+srv://{username}:{password}@{cluster_name}.brlylu4.mongodb.net/?retryWrites=true&w=majority&appName={cluster_name}",
+    "limit_results_per_request": 100
+}
